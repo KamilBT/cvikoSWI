@@ -1,2 +1,2 @@
 # cvikoSWI
-chybny riadok
+# test1
