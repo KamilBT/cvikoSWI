@@ -1,1 +1,2 @@
 # cvikoSWI
+chybny riadok
